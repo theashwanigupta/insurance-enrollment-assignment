@@ -1,4 +1,4 @@
-# Insurance Enrollment Prediction (ML Take-Home)
+# Insurance Enrollment Prediction
 
 This project predicts whether an employee will enroll in a voluntary insurance product using census-style employee data.
 
