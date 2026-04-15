@@ -6,10 +6,10 @@ This project predicts whether an employee will enroll in a voluntary insurance p
 
 - `employee_data.csv` — source dataset (provided)
 - `insurance_enrollment_prediction.ipynb` — end-to-end notebook (EDA, preprocessing, modeling, evaluation)
-- `report.md` — assignment report with observations, model rationale, and outcomes
+- `insurance_enrollment_prediction/insurance_enrollment_prediction.md` — assignment report with observations, model rationale, and outcomes
 - `requirements.txt` — Python dependencies
 - `train.txt` — Model Training
-- `inference.txt` — Predection Inference
+- `inference.txt` — Predection Inferencing
 
 ## Setup
 
