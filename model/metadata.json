@@ -1,0 +1,34 @@
+{
+  "selected_model": "Logistic Regression",
+  "metrics": {
+    "Logistic Regression": {
+      "accuracy": 0.946,
+      "precision": 0.9973521624007061,
+      "recall": 0.9149797570850202,
+      "f1": 0.9543918918918919,
+      "roc_auc": 0.994342039109841
+    },
+    "Random Forest": {
+      "accuracy": 0.9465,
+      "precision": 0.9747474747474747,
+      "recall": 0.9376518218623482,
+      "f1": 0.9558398679323153,
+      "roc_auc": 0.9940710751237067
+    }
+  },
+  "rows": 10000,
+  "columns": [
+    "employee_id",
+    "age",
+    "gender",
+    "marital_status",
+    "salary",
+    "employment_type",
+    "region",
+    "has_dependents",
+    "tenure_years",
+    "enrolled",
+    "age_group",
+    "salary_band"
+  ]
+}
